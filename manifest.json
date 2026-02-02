@@ -1,0 +1,21 @@
+
+{
+  "short_name": "Shiksha Setu",
+  "name": "Shiksha Setu - EVS School Management",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/fluency/512/school.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://img.icons8.com/fluency/512/school.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1e3a8a",
+  "background_color": "#f8fafc"
+}
